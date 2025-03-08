@@ -1,4 +1,4 @@
-import { api } from "../../services/api";
+import { api } from '../../services/api';
 
 import { Textarea } from '../../components/Textarea';
 import { NoteItem} from '../../components/NoteItem';

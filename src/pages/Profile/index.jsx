@@ -1,4 +1,4 @@
-import { api } from '../../services/api'
+import { api } from '../../services/api';
 
 import { FiArrowLeft, FiUser, FiLock, FiMail,FiCamera } from "react-icons/fi";
 import avatarPlaceholder from '../../assets/avatar_placeholder.svg';

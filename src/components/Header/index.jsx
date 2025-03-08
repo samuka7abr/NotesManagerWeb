@@ -1,4 +1,4 @@
-import { api } from "../../services/api";
+import { api } from '../../services/api';
 
 import avatarPlaceholder from '../../assets/avatar_placeholder.svg';
 import { Container, Profile, Logout } from './styles';
