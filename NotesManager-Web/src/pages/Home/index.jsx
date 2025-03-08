@@ -1,5 +1,5 @@
 import { Container, Brand, Menu, Search, Content, NewNote } from './styles';
-import { api } from '../../../../../NotesManagerAPI/NotesManager-API/src/services/api';
+import { api } from '../../../../../NotesManagerAPI/src/services/api';
 import { ButtonText } from '../../components/ButtonText';
 import { useNavigate } from 'react-router-dom';
 import { Section } from '../../components/Section';

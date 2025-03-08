@@ -1,4 +1,4 @@
-import { api } from '../../../../NotesManagerAPI/NotesManager-API/src/services/api'
+import { api } from '../../../../NotesManagerAPI/src/services/api';
 import { createContext, useContext, useState, useEffect } from 'react';
 
 const AuthContext = createContext({});

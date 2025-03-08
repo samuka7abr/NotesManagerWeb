@@ -1,4 +1,4 @@
-import { api } from '../../../../../NotesManagerAPI/NotesManager-API/src/services/api';
+import { api } from '../../../../../NotesManagerAPI/src/services/api';
 import { FiArrowLeft, FiUser, FiLock, FiMail,FiCamera } from "react-icons/fi";
 import avatarPlaceholder from '../../assets/avatar_placeholder.svg';
 import { Container, Form, Avatar } from "./styles";
