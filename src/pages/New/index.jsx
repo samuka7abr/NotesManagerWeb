@@ -1,4 +1,5 @@
-import { api } from '../../../../NotesManagerAPI/src/services/api';
+import { api } from "../../services/api";
+
 import { Textarea } from '../../components/Textarea';
 import { NoteItem} from '../../components/NoteItem';
 import { Section } from '../../components/Section';
