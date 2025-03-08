@@ -1,4 +1,4 @@
-import { api } from '../../../../../NotesManagerAPI/src/services/api';
+import { api } from '../../../NotesManagerAPI/src/services/api';
 import { useNavigate, useParams } from "react-router-dom";
 import { ButtonText } from "../../components/ButtonText";
 import { Container, Links, Content } from "./styles";

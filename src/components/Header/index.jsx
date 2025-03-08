@@ -1,4 +1,4 @@
-import { api } from '../../../../../NotesManagerAPI/src/services/api';
+import { api } from '../../../NotesManagerAPI/src/services/api';
 import avatarPlaceholder from '../../assets/avatar_placeholder.svg';
 import { Container, Profile, Logout } from './styles';
 import { Link, useNavigate } from 'react-router-dom';

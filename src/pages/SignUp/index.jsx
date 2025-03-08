@@ -1,4 +1,4 @@
-import { api } from '../../../../../NotesManagerAPI/src/services/api';
+import { api } from '../../../NotesManagerAPI/src/services/api';
 import { FiMail, FiLock, FiUser } from 'react-icons/fi';
 import { Link, useNavigate } from 'react-router-dom';
 import { Button } from '../../components/Button';
